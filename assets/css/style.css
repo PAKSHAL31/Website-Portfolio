@@ -805,9 +805,11 @@ section {
 }
 .contact .info-box h3 {
   font-size: 20px;
-  color: #777777;
+  color: #000;
   font-weight: 700;
   margin: 10px 0;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
 }
 
 .contact .info-box p {
